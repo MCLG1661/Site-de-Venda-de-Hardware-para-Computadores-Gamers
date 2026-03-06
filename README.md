@@ -24,6 +24,7 @@ O projeto demonstra :
 - Git & GitHub
 
 ## 📂 Estrutura do Projeto
+
 hardware-store-gamer/
 │
 ├── index.html
