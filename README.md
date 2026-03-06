@@ -25,15 +25,9 @@ O projeto demonstra :
 
 ## 📂 Estrutura do Projeto
 
-.
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets
-│   ├── images
-│   │   └── (imagens do projeto)
-│   └── icons
-│       └── (ícones utilizados)
 └── README.md
 
 ## 🖥️ Funcionalidades
