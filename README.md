@@ -1,7 +1,6 @@
 ## 🎮 Site de Venda de Hardware para Computadores Gamers
 
 Projeto desenvolvido durante a Masterclass da Imersão Front-End com IA da Alura.
-
 A proposta foi criar, em aproximadamente 20 minutos, um site de venda de hardware para gamers, utilizando ferramentas de front-end com apoio de inteligência artificial.
 
 ## 🚀 Objetivo
