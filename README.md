@@ -26,7 +26,7 @@ O projeto demonstra :
 ## 📂 Estrutura do Projeto
 
 hardware-store-gamer/
-│
+
 ├── index.html
 ├── style.css
 ├── script.js
