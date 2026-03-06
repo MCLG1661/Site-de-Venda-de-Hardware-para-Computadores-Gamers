@@ -25,7 +25,13 @@ O projeto demonstra :
 
 ## 📂 Estrutura do Projeto
 
-hardware-store-gamer/ │ ├── index.html ├── style.css ├── script.js ├── assets/ │ ├── images/ │ └── icons/ │ └── README.md
+hardware-store-gamer/
+│
+├── index.html        # Página principal da loja
+├── style.css         # Estilos do site
+├── script.js         # Lógica e interações da página
+│
+└── README.md         # Documentação do projeto
 
 ## 🖥️ Funcionalidades
 
