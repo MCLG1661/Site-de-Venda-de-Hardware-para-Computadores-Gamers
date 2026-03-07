@@ -54,9 +54,14 @@ O projeto demonstra :
 - Implementar responsividade avançada
 - Adicionar modo dark gamer
 
+## 🙏 Agradecimentos
+
+- Alura
+- Prof : Guilherme Lima 
+
 ## Autor
 
 Marcus Guedes
 
 - Linkedin : https://www.linkedin.com/in/marcusguedes/
-- GitHub : https://github.com/MCLG1661/
+- GitHub : https://github.com/MCLG1661
