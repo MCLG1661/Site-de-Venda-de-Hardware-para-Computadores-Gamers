@@ -45,7 +45,6 @@ O projeto demonstra :
 
 ## 📚 Aprendizados
 
-- Durante a imersão foi possível aprender:
 - Como prototipar rapidamente interfaces web
 - Como usar IA para acelerar o desenvolvimento front-end
 - Estruturação de projetos simples para portfólio
