@@ -1,6 +1,6 @@
 ## 🎮 Site de Venda de Hardware para Computadores Gamers
 
-![Badge HTML](https://img.shields.io/badge/HTML-semântico-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Badge HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Badge CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Badge JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Badge Flexbox](https://img.shields.io/badge/layout-flexbox-blue?style=flat-square)
