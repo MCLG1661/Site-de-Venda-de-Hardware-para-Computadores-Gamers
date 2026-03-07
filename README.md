@@ -1,8 +1,9 @@
 ## 🎮 Site de Venda de Hardware para Computadores Gamers
 
-![Badge HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Badge CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Badge JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Badge HTML](https://img.shields.io/badge/HTML-semântico-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Badge CSS](https://img.shields.io/badge/CSS-flexbox%20%7C%20grid-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Badge JS](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Badge Flexbox](https://img.shields.io/badge/layout-flexbox-blue?style=flat-square)
 
 Projeto desenvolvido durante a Masterclass da Imersão Front-End com IA da Alura.
 
