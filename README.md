@@ -61,7 +61,7 @@ O projeto demonstra :
 ## 🙏 Agradecimentos
 
 - Alura
-- Prof : Guilherme Lima 
+- Prof. Guilherme Lima 
 
 ## Autor
 
